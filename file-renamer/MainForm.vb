@@ -1,5 +1,4 @@
-﻿Imports file_renamer.FileRenamer
-Imports System.IO
+﻿Imports System.IO
 
 Public Class MainForm
     Private files() As String
